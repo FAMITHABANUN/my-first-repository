@@ -9,7 +9,7 @@ This repository is created as part of my GitHub learning activity.
 - To upload files
 
 ## Author
-Famitha banu N Banu
+Famitha banu N 
 
 ## Thank You
 Thank you for visiting my repository!
